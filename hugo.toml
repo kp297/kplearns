@@ -1,5 +1,46 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kplearns.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'KP Learns'
+
+[Params]
+  description = "Documentation of my learning journey"
+  images = ['/digital-garden-logo.png'] # TODO: change the image
 
 theme = 'digitalgarden'
+
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Learning Notes'
+  url = '/notes'
+  weight = 4
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 5
+
+
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://linkedin.com/in/kunalprakash'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/kp297'
+  weight = 2
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/kunalprak'
+  weight = 3

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on KP Learns</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on KP Learns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 02:10:04 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Llm Basic Terms</title>
+      <link>http://localhost:1313/articles/llm-basic-terms/</link>
+      <pubDate>Thu, 21 Mar 2024 02:10:04 -0400</pubDate>
+      <guid>http://localhost:1313/articles/llm-basic-terms/</guid>
+      <description>With AI tools like ChatGPT and Gemini rising, there are a lot of terms floating around us that may be confusing to people. Here&amp;rsquo;s a simple guide:&#xA;Large Language Model (LLM) These AI tools are trained on human languages and thus are called language models. They are called large because they are trained on obscene amount of data. Imagine a large whale opening its mouth with everything going inside. That&amp;rsquo;s LLM with text.</description>
+    </item>
+  </channel>
+</rss>

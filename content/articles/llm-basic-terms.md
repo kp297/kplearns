@@ -1,7 +1,7 @@
 +++
 title = 'LLM Basic Terms'
 date = 2024-03-21T02:10:04-04:00
-draft = true
+draft = false
 +++
 
 With AI tools like ChatGPT and Gemini rising, there are a lot of terms floating around us that may be confusing to people. Here's a simple guide:

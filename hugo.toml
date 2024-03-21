@@ -1,4 +1,4 @@
-baseURL = 'https://kplearns.com/'
+baseURL = 'https://kplearns.pages.dev/'
 languageCode = 'en-us'
 title = 'KP Learns'
 
@@ -7,7 +7,6 @@ theme = 'digitalgarden'
 [Params]
   description = "Documentation of my learning journey"
   images = ['/digital-garden-logo.png'] # TODO: change the image
-
 
 
 

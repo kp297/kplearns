@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kplearns.com/categories/</loc>
+    <loc>https://kplearns.pages.dev/notes/git-commands/</loc>
+    <lastmod>2024-03-21T02:30:01-04:00</lastmod>
   </url><url>
-    <loc>https://kplearns.com/tags/</loc>
+    <loc>https://kplearns.pages.dev/articles/llm-basic-terms/</loc>
+    <lastmod>2024-03-21T02:10:04-04:00</lastmod>
+  </url><url>
+    <loc>https://kplearns.pages.dev/stack/</loc>
+    <lastmod>2024-03-21T02:07:59-04:00</lastmod>
+  </url><url>
+    <loc>https://kplearns.pages.dev/notes/</loc>
+    <lastmod>2024-03-21T02:07:48-04:00</lastmod>
+  </url><url>
+    <loc>https://kplearns.pages.dev/articles/</loc>
+    <lastmod>2024-03-21T02:07:36-04:00</lastmod>
+  </url><url>
+    <loc>https://kplearns.pages.dev/</loc>
+    <lastmod>2024-03-21T02:05:44-04:00</lastmod>
+  </url><url>
+    <loc>https://kplearns.pages.dev/categories/</loc>
+  </url><url>
+    <loc>https://kplearns.pages.dev/tags/</loc>
   </url>
 </urlset>

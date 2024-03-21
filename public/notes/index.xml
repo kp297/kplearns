@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on KP Learns</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>https://kplearns.pages.dev/notes/</link>
     <description>Recent content in Notes on KP Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 02:30:01 -0400</lastBuildDate>
+    <atom:link href="https://kplearns.pages.dev/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Commands</title>
+      <link>https://kplearns.pages.dev/notes/git-commands/</link>
+      <pubDate>Thu, 21 Mar 2024 02:30:01 -0400</pubDate>
+      <guid>https://kplearns.pages.dev/notes/git-commands/</guid>
+      <description>I often find myself forgetting the basic commands for Git. I know it&amp;rsquo;s dumb but it&amp;rsquo;s just easy to keep all of them in one place for reference.&#xA;Also, for anyone new to Git - these are all the commands you need to get started.&#xA;git init # command to convert any folder to a git repo. It creates a .git folder inside and then git tracks the changes made in it.</description>
+    </item>
   </channel>
 </rss>

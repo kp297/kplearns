@@ -6,8 +6,15 @@
     <description>Recent content on KP Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 02:30:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 02:51:34 -0400</lastBuildDate>
     <atom:link href="https://kplearns.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Commands</title>
+      <link>https://kplearns.pages.dev/notes/hugo-commands/</link>
+      <pubDate>Thu, 21 Mar 2024 02:51:34 -0400</pubDate>
+      <guid>https://kplearns.pages.dev/notes/hugo-commands/</guid>
+      <description>I use Hugo for this website. That doesn&amp;rsquo;t mean I actually know all the commands. These are the basic commands that have been serving me well.&#xA;hugo version Create new website package/folder&#xA;hugo new site newwebsite cd newwebsite Start server locally&#xA;hugo server hugo server -D (for drafts) Add new content&#xA;hugo new content posts/my-first-post.md Publish the site&#xA;hugo After this, the file will be in the public folder&#xA;To clean the public folder for new build: Delete the public folder and rebuild it.</description>
+    </item>
     <item>
       <title>Git Commands</title>
       <link>https://kplearns.pages.dev/notes/git-commands/</link>

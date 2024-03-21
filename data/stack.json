@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Obsidian",
+    "description": "Markdown based note-taking app which stores all notes locally.",
+    "link": "https://obsidian.md/",
+    "icon": "",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Place for all my domains on the internet",
+    "link": "https://cloudflare.com",
+    "icon": "",
+    "tag": "Webdev"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Figma",
+    "description": "Design tool for all design artifacts and social media handles",
+    "link": "https://www.figma.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "tag": "Graphic Design"
+  }
+]
